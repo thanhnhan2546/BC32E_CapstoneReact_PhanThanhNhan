@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BC32E_CapstoneReact_PhanThanhNhan/static/css/main.5c7bbf8b.css",
+    "main.js": "/BC32E_CapstoneReact_PhanThanhNhan/static/js/main.ec2f8af9.js",
+    "static/js/787.78c13d31.chunk.js": "/BC32E_CapstoneReact_PhanThanhNhan/static/js/787.78c13d31.chunk.js",
+    "index.html": "/BC32E_CapstoneReact_PhanThanhNhan/index.html",
+    "main.5c7bbf8b.css.map": "/BC32E_CapstoneReact_PhanThanhNhan/static/css/main.5c7bbf8b.css.map",
+    "main.ec2f8af9.js.map": "/BC32E_CapstoneReact_PhanThanhNhan/static/js/main.ec2f8af9.js.map",
+    "787.78c13d31.chunk.js.map": "/BC32E_CapstoneReact_PhanThanhNhan/static/js/787.78c13d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c7bbf8b.css",
+    "static/js/main.ec2f8af9.js"
+  ]
+}
