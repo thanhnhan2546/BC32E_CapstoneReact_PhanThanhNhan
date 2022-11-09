@@ -1,0 +1,15 @@
+.slick-next::before {
+  color: #282c34;
+  position: absolute;
+  right: 10px;
+}
+
+.slick-prev::before {
+  color: #282c34;
+  position: absolute;
+  left: 10px;
+}
+.oneTab {
+  display: flex !important;
+  justify-content: center;
+}

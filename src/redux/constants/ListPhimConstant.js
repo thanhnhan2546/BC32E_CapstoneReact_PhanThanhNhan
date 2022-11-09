@@ -1,0 +1,5 @@
+export const GET_LIST_MOVIE = "GET_LIST_MOVIE";
+export const GET_ONE_MOVIE = "GET_ONE_MOVIE";
+export const GET_LIST_MOVIE_PAGINATION = "GET_LIST_MOVIE_PAGINATION";
+export const DELETE_MOVIE = "DELETE_MOVIE";
+export const ADD_MOVIE = "ADD_MOVIE";
